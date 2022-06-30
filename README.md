@@ -4,6 +4,8 @@ Considered an exploritory in Movies dataset from Kaggle in this repository to fi
 
 Dataset is available as a CSV file 
 
+# Data Preprocessing:
+
 1- Loaded essential libraries
 
 2- Lodead data from a CSV file
@@ -17,3 +19,17 @@ Dataset is available as a CSV file
 6- Changed data type of numeric columns to int64
 
 7- Dropped the rows which the values are in the 'released' column, that doesn't have a full date
+
+8- Converted 'released' to datetime type
+
+9- Reordered columns and sorted by gross values
+
+The question was "what is most correlated to gross"
+
+# Data Visualization:
+
+1- created Scatter plot with budget vs gross
+
+2- Plotted the budget vs Gross uning Seaborn
+
+
