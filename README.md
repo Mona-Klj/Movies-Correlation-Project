@@ -40,3 +40,10 @@ My guess:
 ## There is High correlation between Budget and Gross and I was right
 
 4- Changeed every objects Columns to category type
+
+5- Plotted Haetmap for all columns
+
+6- created corr table
+
+## votes and budget have the highest correlation to gross earnings
+## company has low correlation
