@@ -24,7 +24,10 @@ Dataset is available as a CSV file
 
 9- Reordered columns and sorted by gross values
 
-The question was "what is most correlated to gross"
+## The question was "what is most correlated to gross"
+My guess: 
+* Frist Thought: Budget high correlation
+* Company high correlation
 
 # Data Visualization:
 
@@ -32,4 +35,8 @@ The question was "what is most correlated to gross"
 
 2- Plotted the budget vs Gross uning Seaborn
 
+3- looked at correlations
 
+## There is High correlation between Budget and Gross and I was right
+
+4- Changeed every objects Columns to category type
