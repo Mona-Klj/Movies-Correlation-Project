@@ -31,7 +31,7 @@ My guess :
 * Frist Thought: Budget high correlation
 * Company high correlation
 
-## Data Visualization:
+## Data Visualization :
 
 1- created Scatter plot with budget vs gross
 
