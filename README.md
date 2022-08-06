@@ -47,5 +47,5 @@ My guess:
 
 6- created corr table
 
-## votes and budget have the highest correlation to gross earnings
+## votes and budget have the highest correlation to gross earnings.
 ## company has low correlation
