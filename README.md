@@ -39,7 +39,7 @@ My guess:
 
 3- looked at correlations
 
-## There is High correlation between Budget and Gross and I was right
+## There is High correlation between Budget and Gross and I was right.
 
 4- Changeed every objects Columns to category type
 
