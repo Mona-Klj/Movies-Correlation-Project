@@ -2,7 +2,7 @@
 
 Considered an exploritory in Movies dataset from Kaggle in this repository to find the correlation with gross values vs other variables.
 
-Dataset is available as a CSV file. 
+Dataset is available as a CSV file . 
 
 ## Data Preprocessing:
 
