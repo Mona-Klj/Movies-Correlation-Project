@@ -22,7 +22,7 @@ Dataset is available as a CSV file.
 
 8- Converted 'released' to datetime type.
 
-9- Reordered columns and sorted by gross values
+9- Reordered columns and sorted by gross values.
 
 ## The question was "what is most correlated to gross"
 
