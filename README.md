@@ -12,7 +12,7 @@ Dataset is available as a CSV file.
 
 3- Cheked for missing data
 
-4- Dropped duplicates if there's one
+4- Dropped duplicates if there's one.
 
 5- Dropped any rows with null values
 
