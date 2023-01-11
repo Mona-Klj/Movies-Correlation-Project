@@ -20,7 +20,7 @@ Dataset is available as a CSV file.
 
 7- Dropped the rows which the values are in the 'released' column, that doesn't have a full date
 
-8- Converted 'released' to datetime type.
+8- Converted 'released' to datetime type .
 
 9- Reordered columns and sorted by gross values.
 
