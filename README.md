@@ -35,7 +35,7 @@ My guess:
 
 1- created Scatter plot with budget vs gross
 
-2- Plotted the budget vs Gross uning Seaborn
+2- Plotted the budget vs Gross uning Seaborn.
 
 3- looked at correlations
 
