@@ -4,7 +4,7 @@ Considered an exploritory in Movies dataset from Kaggle in this repository to fi
 
 Dataset is available as a CSV file. 
 
-## Data Preprocessing :
+## Data Preprocessing:
 
 1- Loaded essential libraries
 
