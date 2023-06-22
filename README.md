@@ -18,7 +18,7 @@ Dataset is available as a CSV file.
 
 6- Changed data type of numeric columns to int64
 
-7- Dropped the rows which the values are in the 'released' column, that doesn't have a full date
+7- Dropped the rows in which the values are in the 'released' column, that doesn't have a full date
 
 8- Converted 'released' to DateTime type.
 
